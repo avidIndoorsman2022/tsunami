@@ -1,0 +1,100 @@
+.waves-image {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  height: 94px;
+  left: 0;
+  /*min-width: 1240px; */
+  top: 0;
+}
+
+.overlap-group {
+  height: 11px;
+  margin-top: -0.46px;
+  position: relative;
+  width: 1240px;
+}
+
+.intersect {
+  height: 100%; /* 110px; */
+  width: 100%; 
+  object-fit: cover;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.intersect-1 {
+  height: 100%; /* 110px; */
+  width: 100%; 
+  object-fit: cover;
+  left: 0;
+  position: absolute;
+  top: 0;
+  /* width: 1240px; */
+}
+
+.intersect-2 {
+  height: 100%; /* 110px; */
+  width: 100%; 
+  object-fit: cover;
+  left: 0;
+  position: absolute;
+  top: 0;
+  /* width: 1240px; */
+}
+
+/*
+.waves-image {
+  align-items: flex-start;
+  display: flex;
+  height: 94px;
+  left: 0;
+  min-width: 1240px;
+  position: relative;
+  top: 0;
+}
+
+.overlap-group {
+  height: 11px;
+  margin-top: -0.46px;
+  position: relative;
+  width: 1240px;
+}
+
+.intersect {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1240px;
+}
+
+.intersect-1 {
+  height: 110px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1240px;
+}
+
+.intersect-2 {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1240px;
+}
+*/
+
+.group-78.group-78-1,
+.group-78.group-78-3,
+.group-78.group-78-4,
+.group-78.group-78-7,
+.group-78.group-78-8,
+.group-78.group-78-10,
+.group-78.group-78-12 {
+  left: 204px;
+  top: 10px;
+}
+
