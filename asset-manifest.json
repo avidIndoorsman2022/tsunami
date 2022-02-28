@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tsunami/static/css/main.961617ef.chunk.css",
-    "main.js": "/tsunami/static/js/main.02324c83.chunk.js",
-    "main.js.map": "/tsunami/static/js/main.02324c83.chunk.js.map",
-    "runtime-main.js": "/tsunami/static/js/runtime-main.8b8fa03c.js",
-    "runtime-main.js.map": "/tsunami/static/js/runtime-main.8b8fa03c.js.map",
-    "static/js/2.b9ced21c.chunk.js": "/tsunami/static/js/2.b9ced21c.chunk.js",
-    "static/js/2.b9ced21c.chunk.js.map": "/tsunami/static/js/2.b9ced21c.chunk.js.map",
-    "static/js/3.be280e4f.chunk.js": "/tsunami/static/js/3.be280e4f.chunk.js",
-    "static/js/3.be280e4f.chunk.js.map": "/tsunami/static/js/3.be280e4f.chunk.js.map",
-    "index.html": "/tsunami/index.html",
-    "static/css/main.961617ef.chunk.css.map": "/tsunami/static/css/main.961617ef.chunk.css.map",
-    "static/js/2.b9ced21c.chunk.js.LICENSE.txt": "/tsunami/static/js/2.b9ced21c.chunk.js.LICENSE.txt"
+    "main.css": "https://avidindoorsman2022.github.io/tsunami/static/css/main.961617ef.chunk.css",
+    "main.js": "https://avidindoorsman2022.github.io/tsunami/static/js/main.02324c83.chunk.js",
+    "main.js.map": "https://avidindoorsman2022.github.io/tsunami/static/js/main.02324c83.chunk.js.map",
+    "runtime-main.js": "https://avidindoorsman2022.github.io/tsunami/static/js/runtime-main.8629bea1.js",
+    "runtime-main.js.map": "https://avidindoorsman2022.github.io/tsunami/static/js/runtime-main.8629bea1.js.map",
+    "static/js/2.b9ced21c.chunk.js": "https://avidindoorsman2022.github.io/tsunami/static/js/2.b9ced21c.chunk.js",
+    "static/js/2.b9ced21c.chunk.js.map": "https://avidindoorsman2022.github.io/tsunami/static/js/2.b9ced21c.chunk.js.map",
+    "static/js/3.be280e4f.chunk.js": "https://avidindoorsman2022.github.io/tsunami/static/js/3.be280e4f.chunk.js",
+    "static/js/3.be280e4f.chunk.js.map": "https://avidindoorsman2022.github.io/tsunami/static/js/3.be280e4f.chunk.js.map",
+    "index.html": "https://avidindoorsman2022.github.io/tsunami/index.html",
+    "static/css/main.961617ef.chunk.css.map": "https://avidindoorsman2022.github.io/tsunami/static/css/main.961617ef.chunk.css.map",
+    "static/js/2.b9ced21c.chunk.js.LICENSE.txt": "https://avidindoorsman2022.github.io/tsunami/static/js/2.b9ced21c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b8fa03c.js",
+    "static/js/runtime-main.8629bea1.js",
     "static/js/2.b9ced21c.chunk.js",
     "static/css/main.961617ef.chunk.css",
     "static/js/main.02324c83.chunk.js"
